@@ -13,7 +13,7 @@
 
 <h2 align="center"> Who Am I</h2>
 <p align="center">
-  <samp>A highly resourceful Software Developer and well-rounded IT Professional with much experience developing things for Windows, Android, iOS and Web Platforms. I possess expert knowledge of the Software Development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>A highly resourceful Software Developer and well-rounded IT Professional with much experience developing things for Windows, Android, iOS and Web Platforms. I possess expert knowledge of the Software Development life cycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=GypsyTheDj" alt="https://github.com/EdwardMoenga" />
